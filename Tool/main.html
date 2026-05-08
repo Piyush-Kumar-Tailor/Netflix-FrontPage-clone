@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Info Button</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        /* Hide info box initially */
+        #infoBox {
+            display: none;
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #f4f4f4;
+            border: 1px solid #ccc;
+            width: 300px;
+            margin: auto;
+            border-radius: 5px;
+        }
+
+        /* Style for the button */
+        label {
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            display: inline-block;
+        }
+
+        label:hover {
+            background-color: #0056b3;
+        }
+
+        /* Use CSS checkbox hack to toggle visibility */
+        #toggle:checked + #infoBox {
+            display: block;
+        }
+
+        /* Hide the checkbox */
+        #toggle {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hidden checkbox -->
+    <input type="checkbox" id="toggle">
+    
+    <!-- Label acts as a button -->
+    <label for="toggle">Show Information</label>
+    
+    <!-- Info box -->
+    <div id="infoBox">
+        <p>This is some information that appears when you click the button.</p>
+    </div>
+</body>
+</html>

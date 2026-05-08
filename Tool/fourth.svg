@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(39.075 17.6882) rotate(135) scale(32.8097)">
+            <stop stop-color="#99421D"/>
+            <stop offset="0.333" stop-color="#99161D"/>
+            <stop offset="0.666" stop-color="#7D1845"/>
+            <stop offset="1" stop-color="#59216E"/>
+        </radialGradient>
+    </defs>
+    <rect x="10.8" y="10.8" width="34.8" height="34.8" rx="4.8" fill="url(#paint0_radial)"/>
+    <circle cx="16.5" cy="21.9" r="2.1" fill="#FFDCCC"/>
+    <circle cx="37.5" cy="21.9" r="2.1" fill="#FFDCCC"/>
+    <path d="M23.67 29.45c-.43-.25-.98-.11-1.23.32-.25.43-.11.98.32 1.23 1.07.64 4.01 1.89 7.87 1.89s6.79-1.25 7.87-1.89c.43-.25.57-.8.32-1.23s-.8-.57-1.23-.32c-.78.46-3.41 1.52-7.06 1.52s-6.28-1.06-7.06-1.52z" fill="#FFDCCC"/>
+    <rect x="27.6" y="27.6" width="34.8" height="34.8" rx="4.8" fill="#EF7744"/>
+    <circle cx="34.5" cy="39.9" r="2.1" fill="#FFDCCC"/>
+    <circle cx="55.5" cy="39.9" r="2.1" fill="#FFDCCC"/>
+</svg>
