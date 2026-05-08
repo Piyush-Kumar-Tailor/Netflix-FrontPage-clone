@@ -210,7 +210,7 @@ form input {
 }
 
 #cont1 {
-    background-image: url("pushpa.webp");
+    background-image: url("images/pushpa.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
@@ -219,63 +219,63 @@ form input {
 }
 
 #cont2 {
-    background-image: url("emergency.webp");
+    background-image: url("images/emergency.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont3 {
-    background-image: url("VidaaMuyarchi.webp");
+    background-image: url("images/VidaaMuyarchi.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont4 {
-    background-image: url("Squid_Game.webp");
+    background-image: url("images/Squid_Game.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont5 {
-    background-image: url("Thandel.webp");
+    background-image: url("images/Thandel.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont6 {
-    background-image: url("Nadaaniyan.webp");
+    background-image: url("images/Nadaaniyan.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont7 {
-    background-image: url("Daaku_Maharaaj.webp");
+    background-image: url("images/Daaku_Maharaaj.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont8 {
-    background-image: url("Dabba_Cartel.webp");
+    background-image: url("images/Dabba_Cartel.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont9 {
-    background-image: url("azaad.webp");
+    background-image: url("images/azaad.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
 }
 
 #cont10 {
-    background-image: url("Dhoom_Dhaam.webp");
+    background-image: url("images/Dhoom_Dhaam.webp");
     background-repeat: no repeat;
     background-position: center center;
     background-size: cover;
